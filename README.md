@@ -49,3 +49,36 @@ This project represents our exploration of AI tools, application design and back
 ---
 
 *Built with curiosity, collaboration and a passion for learning.*
+
+Name	Last commit message	Last commit date
+..
+server
+Add files via upload
+last week
+src
+Add files via upload
+last week
+README.md
+Make AI Studio app link clickable in README
+last week
+bun.lock
+Add files via upload
+last week
+index.html
+Add files via upload
+last week
+metadata.json
+Add files via upload
+last week
+package.json
+Add files via upload
+last week
+server.ts
+Add files via upload
+last week
+tsconfig.json
+Add files via upload
+last week
+vite.config.ts
+Add files via upload
+last week
