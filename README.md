@@ -33,6 +33,17 @@ Developed as a team project during HACKSHASTRA 2K26.
 
 Hackathon prototype / UI-focused implementation.
 
+Run and deploy your AI Studio app
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/dda94e6b-776a-442a-b25e-5e77060b80c4
+
+Run Locally
+Prerequisites: Node.js
+
+Install dependencies: npm install
+Set the GEMINI_API_KEY in .env.local to your Gemini API key
+Run the app: npm run dev
 This project represents our exploration of AI tools, application design and backend technologies to develop a solution addressing a real-world problem.
 
 ---
